@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+
+header{
+    padding:16px 32px;
+    background-color: rgb(59, 62, 78);
+    border: solid;
+    
+
+}
+.links{
+    position: relative;
+    left: 85%;
+    font-size: x-small;
+    
+}
+
+.name{
+    font-size: xx-large;
+    position:absolute;
+}
