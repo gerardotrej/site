@@ -13,6 +13,7 @@
     border-color: aqua;
     margin:40px;
     padding: 40px;
-    justify-content: center;
+    justify-content:center;
+    position: fixed;
   
  }
