@@ -11,4 +11,8 @@
  .message {
     border: solid;
     border-color: aqua;
+    margin:40px;
+    padding: 40px;
+    justify-content: center;
+  
  }
