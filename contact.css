@@ -1,0 +1,14 @@
+ body {
+    background-color: blueviolet;
+}
+
+.box{
+    border:solid;
+    position: fixed;
+    align-items: center;
+}
+
+ .message {
+    border: solid;
+    border-color: aqua;
+ }
