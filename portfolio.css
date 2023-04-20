@@ -20,3 +20,9 @@ header{
     font-size: xx-large;
     position:absolute;
 }
+
+section{
+    justify-content: center;
+    flex-direction: row;
+    display: flex
+}
